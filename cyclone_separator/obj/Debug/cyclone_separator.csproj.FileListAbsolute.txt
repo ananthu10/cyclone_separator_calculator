@@ -1,0 +1,10 @@
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\bin\Debug\cyclone_separator.exe.config
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\bin\Debug\cyclone_separator.exe
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\bin\Debug\cyclone_separator.pdb
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.csprojAssemblyReference.cache
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.Form1.resources
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.Properties.Resources.resources
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.csproj.GenerateResource.cache
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.csproj.CoreCompileInputs.cache
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.exe
+F:\ivin\cyclone_separator\cyclone_separator\cyclone_separator\obj\Debug\cyclone_separator.pdb
